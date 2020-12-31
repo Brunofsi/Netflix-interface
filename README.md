@@ -7,7 +7,7 @@
     <img src="img/print-netflix.png">
 </h1>
 
-#### Acesse clicando **[aqui](#)**
+#### Acesse clicando **[aqui](https://brunofsi.github.io/Netflix-interface/)**
 ---
 
 ## Sobre
